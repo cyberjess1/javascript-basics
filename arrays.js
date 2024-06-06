@@ -8,7 +8,7 @@ const arr = [10, 20, 30, 40, 50, 60];
 */
 
 //Code Here
-
+var firstItem = arr
 ////////// PROBLEM 2 //////////
 /*
   Remove the last item from the 'arr' array and store it in a variable named
@@ -16,7 +16,7 @@ const arr = [10, 20, 30, 40, 50, 60];
 */
 
 //Code Here
-
+arr.pop()
 ////////// PROBLEM 3 //////////
 
 // Do not edit the code below.
